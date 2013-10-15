@@ -1,0 +1,5 @@
+[ "amnesia": {:git, "git://github.com/meh/amnesia.git", "996285a84bd21b5e4e5e864ee37e96952e6177f8", []},
+  "continuum": {:git, "git://github.com/meh/continuum.git", "6dacfb669cfd1c7f4d7f8d51189a7656323e93b0", []},
+  "datastructures": {:git, "git://github.com/meh/elixir-datastructures.git", "a72a760cb1f4143c721869f1d4660dd57062087a", []},
+  "elixir_csv": {:git, "git://github.com/baldmountain/elixir_csv.git", "9dc936a4f124671303553003b0c4d9095c0e055d", []},
+  "exquisite": {:git, "git://github.com/meh/exquisite.git", "7abb3332563ed85e2e3c650d138799c937e2e06a", []} ]
